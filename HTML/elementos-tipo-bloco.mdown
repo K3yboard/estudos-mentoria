@@ -1,0 +1,15 @@
+# HTML - Elementos do tipo bloco
+
+Elementos do tipo bloco ocupam toda largura disponível.
+
+Segue abaixo uma relação com	os elementos blocks:
+
+* A tag **address** é usada para indicar o endereço de contato referente a algum artigo ou site. Usado logo após um `article` ou para o `body`, que representa o documento inteiro. Exemplo: 
+
+`
+<address>
+	Rua Quatro, 123 - São Paulo - SP<br>
+	CEP: 01234-125
+	Brazil	
+</address>
+`
