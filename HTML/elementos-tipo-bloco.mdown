@@ -4,6 +4,8 @@ Elementos do tipo bloco ocupam toda largura disponível.
 
 Segue abaixo uma relação com	os elementos blocks:
 
+## `<address>`
+
 * A tag **address** é usada para indicar o endereço de contato referente a algum artigo ou site. Usado logo após um `article` ou para o `body`, que representa o documento inteiro. Exemplo: 
 
 `
@@ -13,3 +15,23 @@ Segue abaixo uma relação com	os elementos blocks:
 	Brazil	
 </address>
 `
+
+---
+
+## `<article>`
+
+* A tag **article** representa uma seção de conteúdo do site, que forma uma parte independente do documento. Dentro do article pode ser inserido um post de blog, artigo, texto, posts em fóruns e etc. 
+
+`
+<article>
+	<h2>Título do blog</h2>
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</artcile>
+`
+
+---
